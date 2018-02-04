@@ -2,6 +2,10 @@
 
 The ADF Community is a place for users of Azure Data Factory to share code that can help the rest of the community.
 
+## Home Repository
+
+This repository is intended to contain questions, bug reports and design discussions for all the projects under the ADF Community account. Source code for the various projects will be in their own repositories, but their issues lists are intended to be used for release notes only. Please ask any questions or report bugs here.
+
 ## Projects
 
 To see a list of all projects, see the [ADFCommunity account page](https://github.com/ADFCommunity). Key projects are:
